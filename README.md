@@ -127,11 +127,11 @@ We look at what is on the site
 
 We can check what is available on other ids 
 
-[Pasted image 20241007201859.png]
+![ID Logs](2.png)
 
 We can see that id 0 has logs, let's download them and analyze them.
 
-[Pasted image 20241007202055.png]
+![Log Details](3.png)
 
 we found the login and password , let's try to log in via SSH 
 
@@ -205,7 +205,7 @@ nathan@cap:~$ chmod 777 linpeas.sh
 nathan@cap:~$ ./linpeas.sh
 
 ```
-![img][image 20241007202808.png]
+![Privilege Escalation](4.png)
 
 We found something interesting, let's google it.
 
