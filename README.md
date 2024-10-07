@@ -123,7 +123,7 @@ Nmap done: 1 IP address (1 host up) scanned in 168.12 seconds
 
 We look at what is on the site 
 
-![[Pasted image 20241007201751.png]]
+![img][image 20241007201751.png]
 
 We can check what is available on other ids 
 
