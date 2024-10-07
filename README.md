@@ -131,7 +131,7 @@ We can check what is available on other ids
 
 We can see that id 0 has logs, let's download them and analyze them.
 
-![[Pasted image 20241007202055.png]]
+[Pasted image 20241007202055.png]
 
 we found the login and password , let's try to log in via SSH 
 
@@ -205,7 +205,7 @@ nathan@cap:~$ chmod 777 linpeas.sh
 nathan@cap:~$ ./linpeas.sh
 
 ```
-![[Pasted image 20241007202808.png]]
+![img][image 20241007202808.png]
 
 We found something interesting, let's google it.
 
