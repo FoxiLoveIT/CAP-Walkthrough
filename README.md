@@ -127,7 +127,7 @@ We look at what is on the site
 
 We can check what is available on other ids 
 
-![[Pasted image 20241007201859.png]]
+[Pasted image 20241007201859.png]
 
 We can see that id 0 has logs, let's download them and analyze them.
 
